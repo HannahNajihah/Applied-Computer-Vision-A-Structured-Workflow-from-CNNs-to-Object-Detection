@@ -33,3 +33,7 @@ The workflow bridges theoretical understanding with practical applications, buil
 - **NumPy & Pandas** (Data manipulation and analysis)  
 
 ---
+
+## Run Notebook in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C_PrlxXhHbLsRnFtnKM2w8UWlHAAh_za#scrollTo=a8ujosNtaTc8)
+
