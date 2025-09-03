@@ -1,0 +1,25 @@
+
+---
+
+## 📄 requirements.txt
+
+```txt
+# Core libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Deep Learning
+tensorflow
+keras
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Pretrained Models
+tensorflow-hub
+
+# Evaluation
+scikit-learn
